@@ -17,12 +17,12 @@ Enjoy open-world exploration, unexpected humor, and good energy throughout your 
 2. C#
 3. Visual Studio
 
-📜 License
+📜 License:
 This project is licensed under the MIT License.
 Feel free to use it for learning or as a base for your own project.
 
-💬Contact
-Created by Katerina Sinicka, Alina Krasnova, Aleksandrs Kapanskis
+💬Contact:
+Created by Katerina Sinicka, Alina Krasnova, Aleksandrs Kapanskis.
 Uploaded to github by: Katerina Sinicka
 Email: katerina.sinicka@gmail.com
 LinkedIn: www.linkedin.com/in/katerina-sinicka
