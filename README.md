@@ -27,4 +27,4 @@ Feel free to use it for learning or as a base for your own project.
 
 Created by Katerina Sinicka, Alina Krasnova, Aleksandrs Kapanskis.
 
-Uploaded to github by: Katerina Sinicka
+Uploaded to github by Katerina Sinicka
