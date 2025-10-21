@@ -1,7 +1,8 @@
 A small adventure game created during one of our courses by me and two friends.
 Upload it, play through, and enjoy the good vibes and funny memes along the way!
 
-🌍 About the Game
+🌍 About the Game: 
+
 Quest Knight: Pulse Like a G6 is an adventure game built with Unity.
 Explore the big world we built — full of memes, lore, and a cool soundtrack.
 Enjoy open-world exploration, unexpected humor, and good energy throughout your quest!
@@ -17,11 +18,13 @@ Enjoy open-world exploration, unexpected humor, and good energy throughout your 
 2. C#
 3. Visual Studio
 
-📜 License:
+📜 License
+
 This project is licensed under the MIT License.
 Feel free to use it for learning or as a base for your own project.
 
-💬Contact:
+💬Contact
+
 Created by Katerina Sinicka, Alina Krasnova, Aleksandrs Kapanskis.
 
 Uploaded to github by: Katerina Sinicka
