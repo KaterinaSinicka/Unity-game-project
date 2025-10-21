@@ -28,7 +28,3 @@ Feel free to use it for learning or as a base for your own project.
 Created by Katerina Sinicka, Alina Krasnova, Aleksandrs Kapanskis.
 
 Uploaded to github by: Katerina Sinicka
-
-Email: katerina.sinicka@gmail.com
-
-LinkedIn: www.linkedin.com/in/katerina-sinicka
