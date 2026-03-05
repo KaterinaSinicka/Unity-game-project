@@ -9,7 +9,7 @@ Enjoy open-world exploration, unexpected humor, and good energy throughout your 
 
 🎮 How to PLAY:
 1. Download the game trough Google Drive: https://drive.google.com/drive/folders/1dl_U8BkB6jITn5bJSoir9kxO7H8N0yHD?usp=sharing
-2. Extract the ZIP file to any folder on your computer (We promise — no viruses, just vibes 😄)
+2. Extract the ZIP file to any folder on your computer (Promise no viruses, just vibes 😄)
 3. Run file Quest Knight Pulse Like a G6.exe
 4. Enjoy!
 
